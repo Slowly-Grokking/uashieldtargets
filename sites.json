@@ -1,18 +1,127 @@
 [
   {
-    "page": "http://dme.ru/",
+    "page": "https://www.gazprom.ru/",
     "atack": 1
   },
   {
-    "page": "http://vnukovo.ru/",
+    "page": "https://lukoil.ru",
     "atack": 1
   },
   {
-    "page": "http://svo.aero/ru/main",
+    "page": "https://magnit.ru/",
     "atack": 1
   },
   {
-    "page": "http://abakan.aero",
+    "page": "https://www.nornickel.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.surgutneftegas.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.tatneft.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.evraz.com/ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://nlmk.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.sibur.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.severstal.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.metalloinvest.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://nangs.org/",
+    "atack": 1
+  },
+  {
+    "page": "https://rmk-group.ru/ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.tmk-group.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://ya.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.polymetalinternational.com/ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.uralkali.com/ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.eurosib.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://omk.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.sberbank.ru",
+    "atack": 1
+  },
+  {
+    "page": "https://www.vtb.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.gazprombank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.gosuslugi.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.mos.ru/uslugi/",
+    "atack": 1
+  },
+  {
+    "page": "http://kremlin.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://government.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://mil.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.nalog.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://customs.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://pfr.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://rkn.gov.ru/",
     "atack": 1
   }
+  
 ]
